@@ -9,5 +9,5 @@ import { RouterOutlet } from '@angular/router';
   styleUrl: './header.css',
 })
 export class Header {
-  username = 'Lavanya Simham';
+  username = 'LavanyaSimham';
 }
